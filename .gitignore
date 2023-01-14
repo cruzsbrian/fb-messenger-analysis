@@ -1,0 +1,6 @@
+.vscode
+
+messages*
+
+*.png
+!example_plot.png
